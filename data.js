@@ -2165,9 +2165,9 @@ window.PORTAFOLIO = {
       "etapa": "Consolidación y profesionalización",
       "beneficiario": "Empresa y unidades productivas · Micro; Pequeña; Mediana · Etapa: En operación · Geografía: Alcance nacional · Sector: Turismo",
       "tipos_beneficiario": [
-        "Mediana",
-        "Micro",
-        "Pequeña"
+        "Tamaño: Mediana",
+        "Tamaño: Micro",
+        "Tamaño: Pequeña"
       ],
       "monto_o_alcance": "",
       "cofinanciamiento": "",
@@ -2230,9 +2230,9 @@ window.PORTAFOLIO = {
       "etapa": "Consolidación y profesionalización",
       "beneficiario": "Empresa y unidades productivas · Micro; Pequeña; Mediana · Etapa: En operación · Geografía: Alcance nacional · Sector: Turismo",
       "tipos_beneficiario": [
-        "Mediana",
-        "Micro",
-        "Pequeña"
+        "Tamaño: Mediana",
+        "Tamaño: Micro",
+        "Tamaño: Pequeña"
       ],
       "monto_o_alcance": "",
       "cofinanciamiento": "",
@@ -2295,9 +2295,9 @@ window.PORTAFOLIO = {
       "etapa": "Transversal / no asociado a una etapa",
       "beneficiario": "Empresa y unidades productivas · Micro; Pequeña; Mediana · Etapa: En operación · Geografía: Alcance nacional · Sector: Turismo",
       "tipos_beneficiario": [
-        "Mediana",
-        "Micro",
-        "Pequeña"
+        "Tamaño: Mediana",
+        "Tamaño: Micro",
+        "Tamaño: Pequeña"
       ],
       "monto_o_alcance": "",
       "cofinanciamiento": "",
@@ -2360,9 +2360,9 @@ window.PORTAFOLIO = {
       "etapa": "Consolidación y profesionalización",
       "beneficiario": "Empresa y unidades productivas · Micro; Pequeña; Mediana · Etapa: En operación · Geografía: Alcance nacional",
       "tipos_beneficiario": [
-        "Mediana",
-        "Micro",
-        "Pequeña"
+        "Tamaño: Mediana",
+        "Tamaño: Micro",
+        "Tamaño: Pequeña"
       ],
       "monto_o_alcance": "",
       "cofinanciamiento": "",
@@ -2425,7 +2425,9 @@ window.PORTAFOLIO = {
       "etapa": "Consolidación y profesionalización",
       "beneficiario": "Persona física · Persona emprendedora · Alcance nacional  O  Mipyme · Sin restricción de madurez · Alcance nacional",
       "tipos_beneficiario": [
-        "Sin restricción de madurez"
+        "Tamaño: Mediana",
+        "Tamaño: Micro",
+        "Tamaño: Pequeña"
       ],
       "monto_o_alcance": "",
       "cofinanciamiento": "",
@@ -2488,8 +2490,8 @@ window.PORTAFOLIO = {
       "etapa": "Supervivencia y viabilidad",
       "beneficiario": "Empresa y unidades productivas · Micro; Pequeña · Etapa: En operación · Geografía: Alcance nacional · Sector: Alimentos y bebidas",
       "tipos_beneficiario": [
-        "Micro",
-        "Pequeña"
+        "Tamaño: Micro",
+        "Tamaño: Pequeña"
       ],
       "monto_o_alcance": "",
       "cofinanciamiento": "",
@@ -2552,9 +2554,9 @@ window.PORTAFOLIO = {
       "etapa": "Madurez y renovación",
       "beneficiario": "Empresa y unidades productivas · Micro; Pequeña; Mediana · Etapa: En operación · Geografía: Alcance nacional",
       "tipos_beneficiario": [
-        "Mediana",
-        "Micro",
-        "Pequeña"
+        "Tamaño: Mediana",
+        "Tamaño: Micro",
+        "Tamaño: Pequeña"
       ],
       "monto_o_alcance": "",
       "cofinanciamiento": "",
@@ -2617,9 +2619,9 @@ window.PORTAFOLIO = {
       "etapa": "Madurez y renovación",
       "beneficiario": "Empresa y unidades productivas · Micro; Pequeña; Mediana · Etapa: En operación · Geografía: Alcance nacional",
       "tipos_beneficiario": [
-        "Mediana",
-        "Micro",
-        "Pequeña"
+        "Tamaño: Mediana",
+        "Tamaño: Micro",
+        "Tamaño: Pequeña"
       ],
       "monto_o_alcance": "",
       "cofinanciamiento": "",
@@ -2682,9 +2684,9 @@ window.PORTAFOLIO = {
       "etapa": "Transversal / no asociado a una etapa",
       "beneficiario": "Empresa y unidades productivas · Micro; Pequeña; Mediana · Etapa: En operación · Geografía: Alcance nacional",
       "tipos_beneficiario": [
-        "Mediana",
-        "Micro",
-        "Pequeña"
+        "Tamaño: Mediana",
+        "Tamaño: Micro",
+        "Tamaño: Pequeña"
       ],
       "monto_o_alcance": "",
       "cofinanciamiento": "",
@@ -2747,9 +2749,9 @@ window.PORTAFOLIO = {
       "etapa": "Consolidación y profesionalización",
       "beneficiario": "Empresa y unidades productivas · Micro; Pequeña; Mediana · Etapa: En operación · Geografía: Alcance nacional",
       "tipos_beneficiario": [
-        "Mediana",
-        "Micro",
-        "Pequeña"
+        "Tamaño: Mediana",
+        "Tamaño: Micro",
+        "Tamaño: Pequeña"
       ],
       "monto_o_alcance": "",
       "cofinanciamiento": "",
@@ -2812,9 +2814,9 @@ window.PORTAFOLIO = {
       "etapa": "Consolidación y profesionalización",
       "beneficiario": "Empresa y unidades productivas · Micro; Pequeña; Mediana · Etapa: En operación · Geografía: Alcance nacional · Sector: Audiovisual y videojuegos",
       "tipos_beneficiario": [
-        "Mediana",
-        "Micro",
-        "Pequeña"
+        "Tamaño: Mediana",
+        "Tamaño: Micro",
+        "Tamaño: Pequeña"
       ],
       "monto_o_alcance": "",
       "cofinanciamiento": "",
@@ -2877,8 +2879,8 @@ window.PORTAFOLIO = {
       "etapa": "Consolidación y profesionalización",
       "beneficiario": "Empresa y unidades productivas · Micro; Pequeña · Etapa: En operación · Geografía: Alcance nacional",
       "tipos_beneficiario": [
-        "Micro",
-        "Pequeña"
+        "Tamaño: Micro",
+        "Tamaño: Pequeña"
       ],
       "monto_o_alcance": "",
       "cofinanciamiento": "",
@@ -2941,9 +2943,9 @@ window.PORTAFOLIO = {
       "etapa": "Consolidación y profesionalización",
       "beneficiario": "Empresa y unidades productivas · Micro; Pequeña; Mediana · Etapa: En operación · Geografía: Alcance nacional",
       "tipos_beneficiario": [
-        "Mediana",
-        "Micro",
-        "Pequeña"
+        "Tamaño: Mediana",
+        "Tamaño: Micro",
+        "Tamaño: Pequeña"
       ],
       "monto_o_alcance": "",
       "cofinanciamiento": "",
@@ -3006,9 +3008,9 @@ window.PORTAFOLIO = {
       "etapa": "Transversal / no asociado a una etapa",
       "beneficiario": "Empresa y unidades productivas · Micro; Pequeña; Mediana · Etapa: En operación · Geografía: Alcance nacional",
       "tipos_beneficiario": [
-        "Mediana",
-        "Micro",
-        "Pequeña"
+        "Tamaño: Mediana",
+        "Tamaño: Micro",
+        "Tamaño: Pequeña"
       ],
       "monto_o_alcance": "",
       "cofinanciamiento": "",
@@ -3071,9 +3073,9 @@ window.PORTAFOLIO = {
       "etapa": "Transversal / no asociado a una etapa",
       "beneficiario": "Empresa y unidades productivas · Micro; Pequeña; Mediana · Etapa: En operación · Geografía: Alcance nacional",
       "tipos_beneficiario": [
-        "Mediana",
-        "Micro",
-        "Pequeña"
+        "Tamaño: Mediana",
+        "Tamaño: Micro",
+        "Tamaño: Pequeña"
       ],
       "monto_o_alcance": "",
       "cofinanciamiento": "",
@@ -3136,9 +3138,9 @@ window.PORTAFOLIO = {
       "etapa": "Madurez y renovación",
       "beneficiario": "Empresa y unidades productivas · Micro; Pequeña; Mediana · Etapa: En operación · Geografía: Alcance nacional",
       "tipos_beneficiario": [
-        "Mediana",
-        "Micro",
-        "Pequeña"
+        "Tamaño: Mediana",
+        "Tamaño: Micro",
+        "Tamaño: Pequeña"
       ],
       "monto_o_alcance": "",
       "cofinanciamiento": "",
@@ -3201,9 +3203,9 @@ window.PORTAFOLIO = {
       "etapa": "Consolidación y profesionalización",
       "beneficiario": "Empresa y unidades productivas · Micro; Pequeña; Mediana · Etapa: En operación · Geografía: Alcance nacional",
       "tipos_beneficiario": [
-        "Mediana",
-        "Micro",
-        "Pequeña"
+        "Tamaño: Mediana",
+        "Tamaño: Micro",
+        "Tamaño: Pequeña"
       ],
       "monto_o_alcance": "",
       "cofinanciamiento": "",
@@ -3266,9 +3268,9 @@ window.PORTAFOLIO = {
       "etapa": "Consolidación y profesionalización",
       "beneficiario": "Empresa y unidades productivas · Micro; Pequeña; Mediana · Etapa: En operación · Geografía: Alcance nacional",
       "tipos_beneficiario": [
-        "Mediana",
-        "Micro",
-        "Pequeña"
+        "Tamaño: Mediana",
+        "Tamaño: Micro",
+        "Tamaño: Pequeña"
       ],
       "monto_o_alcance": "",
       "cofinanciamiento": "",
@@ -3331,9 +3333,9 @@ window.PORTAFOLIO = {
       "etapa": "Consolidación y profesionalización",
       "beneficiario": "Empresa y unidades productivas · Micro; Pequeña; Mediana · Etapa: En operación · Geografía: Alcance nacional",
       "tipos_beneficiario": [
-        "Mediana",
-        "Micro",
-        "Pequeña"
+        "Tamaño: Mediana",
+        "Tamaño: Micro",
+        "Tamaño: Pequeña"
       ],
       "monto_o_alcance": "",
       "cofinanciamiento": "",
@@ -3396,9 +3398,9 @@ window.PORTAFOLIO = {
       "etapa": "Consolidación y profesionalización",
       "beneficiario": "Empresa y unidades productivas · Micro; Pequeña; Mediana · Etapa: En operación · Geografía: Alcance nacional",
       "tipos_beneficiario": [
-        "Mediana",
-        "Micro",
-        "Pequeña"
+        "Tamaño: Mediana",
+        "Tamaño: Micro",
+        "Tamaño: Pequeña"
       ],
       "monto_o_alcance": "",
       "cofinanciamiento": "",
@@ -3587,7 +3589,10 @@ window.PORTAFOLIO = {
       "etapa": "Consolidación y profesionalización",
       "beneficiario": "Empresa y unidades productivas · Cooperativa o entidad de la ESS · Micro; Pequeña; Mediana · Etapa: En operación · Geografía: Alcance nacional",
       "tipos_beneficiario": [
-        "Cooperativa o entidad de la ESS"
+        "Forma: Cooperativa o entidad de la ESS",
+        "Tamaño: Mediana",
+        "Tamaño: Micro",
+        "Tamaño: Pequeña"
       ],
       "monto_o_alcance": "",
       "cofinanciamiento": "",
@@ -3650,7 +3655,7 @@ window.PORTAFOLIO = {
       "etapa": "Existencia y validación",
       "beneficiario": "Persona emprendedora adulta · Alcance nacional  O  Empresa joven · Unipersonal o persona jurídica con fines de lucro · Menos de 36 meses",
       "tipos_beneficiario": [
-        "Unipersonal o persona jurídica con fines de lucro"
+        "Sin dato"
       ],
       "monto_o_alcance": "",
       "cofinanciamiento": "",
@@ -3713,9 +3718,9 @@ window.PORTAFOLIO = {
       "etapa": "Consolidación y profesionalización",
       "beneficiario": "Empresa y unidades productivas · Micro; Pequeña; Mediana · Etapa: En operación · Geografía: Alcance nacional",
       "tipos_beneficiario": [
-        "Mediana",
-        "Micro",
-        "Pequeña"
+        "Tamaño: Mediana",
+        "Tamaño: Micro",
+        "Tamaño: Pequeña"
       ],
       "monto_o_alcance": "",
       "cofinanciamiento": "",
@@ -3778,8 +3783,8 @@ window.PORTAFOLIO = {
       "etapa": "Transversal / no asociado a una etapa",
       "beneficiario": "Empresa y unidades productivas · Micro; Pequeña · Etapa: En operación · Geografía: Alcance nacional",
       "tipos_beneficiario": [
-        "Micro",
-        "Pequeña"
+        "Tamaño: Micro",
+        "Tamaño: Pequeña"
       ],
       "monto_o_alcance": "",
       "cofinanciamiento": "",
@@ -3842,9 +3847,9 @@ window.PORTAFOLIO = {
       "etapa": "Transversal / no asociado a una etapa",
       "beneficiario": "Empresa y unidades productivas · Micro; Pequeña; Mediana · Etapa: En operación · Geografía: Alcance nacional",
       "tipos_beneficiario": [
-        "Mediana",
-        "Micro",
-        "Pequeña"
+        "Tamaño: Mediana",
+        "Tamaño: Micro",
+        "Tamaño: Pequeña"
       ],
       "monto_o_alcance": "",
       "cofinanciamiento": "",
@@ -3907,7 +3912,7 @@ window.PORTAFOLIO = {
       "etapa": "Existencia y validación",
       "beneficiario": "Persona emprendedora adulta · Alcance nacional  O  Empresa nacional joven · Hasta 36 meses",
       "tipos_beneficiario": [
-        "Hasta 36 meses"
+        "Sin dato"
       ],
       "monto_o_alcance": "",
       "cofinanciamiento": "",
@@ -4789,7 +4794,7 @@ window.PORTAFOLIO = {
       "etapa": "Despegue y escalamiento",
       "beneficiario": "Startup extranjera · Hasta 5 años · Base tecnológica · Etapa temprana",
       "tipos_beneficiario": [
-        "Hasta 5 años"
+        "Sin dato"
       ],
       "monto_o_alcance": "",
       "cofinanciamiento": "",
@@ -4915,7 +4920,7 @@ window.PORTAFOLIO = {
       "etapa": "Existencia y validación",
       "beneficiario": "Empresa y unidades productivas · Cooperativa o entidad de la ESS · Etapa: En operación · Geografía: Ámbito rural · Sector: Agropecuario y forestal",
       "tipos_beneficiario": [
-        "Cooperativa o entidad de la ESS"
+        "Forma: Cooperativa o entidad de la ESS"
       ],
       "monto_o_alcance": "",
       "cofinanciamiento": "",
@@ -4978,7 +4983,7 @@ window.PORTAFOLIO = {
       "etapa": "Consolidación y profesionalización",
       "beneficiario": "Empresa y unidades productivas · Cooperativa o entidad de la ESS · Etapa: En operación · Geografía: Alcance nacional · Sector: Energía",
       "tipos_beneficiario": [
-        "Cooperativa o entidad de la ESS"
+        "Forma: Cooperativa o entidad de la ESS"
       ],
       "monto_o_alcance": "",
       "cofinanciamiento": "",
@@ -5041,7 +5046,7 @@ window.PORTAFOLIO = {
       "etapa": "Despegue y escalamiento",
       "beneficiario": "Empresa y unidades productivas · Cooperativa o entidad de la ESS · Etapa: Exportadora o con potencial exportador · Geografía: Alcance internacional o regional",
       "tipos_beneficiario": [
-        "Cooperativa o entidad de la ESS"
+        "Forma: Cooperativa o entidad de la ESS"
       ],
       "monto_o_alcance": "",
       "cofinanciamiento": "",
@@ -5104,7 +5109,7 @@ window.PORTAFOLIO = {
       "etapa": "Transversal / no asociado a una etapa",
       "beneficiario": "Empresa y unidades productivas · Cooperativa o entidad de la ESS · Etapa: En operación · Geografía: Alcance nacional",
       "tipos_beneficiario": [
-        "Cooperativa o entidad de la ESS"
+        "Forma: Cooperativa o entidad de la ESS"
       ],
       "monto_o_alcance": "",
       "cofinanciamiento": "",
@@ -5167,7 +5172,7 @@ window.PORTAFOLIO = {
       "etapa": "Consolidación y profesionalización",
       "beneficiario": "Empresa y unidades productivas · Cooperativa o entidad de la ESS · Etapa: En operación · Geografía: Alcance nacional",
       "tipos_beneficiario": [
-        "Cooperativa o entidad de la ESS"
+        "Forma: Cooperativa o entidad de la ESS"
       ],
       "monto_o_alcance": "",
       "cofinanciamiento": "",
@@ -5230,7 +5235,7 @@ window.PORTAFOLIO = {
       "etapa": "Existencia y validación",
       "beneficiario": "Empresa y unidades productivas · Cooperativa o entidad de la ESS · Etapa: Idea o preincubación · Geografía: Alcance nacional",
       "tipos_beneficiario": [
-        "Cooperativa o entidad de la ESS"
+        "Forma: Cooperativa o entidad de la ESS"
       ],
       "monto_o_alcance": "",
       "cofinanciamiento": "",
@@ -5293,7 +5298,7 @@ window.PORTAFOLIO = {
       "etapa": "Supervivencia y viabilidad",
       "beneficiario": "Empresa y unidades productivas · Cooperativa o entidad de la ESS · Etapa: En operación · Geografía: Alcance nacional · Sector: Alimentos y bebidas",
       "tipos_beneficiario": [
-        "Cooperativa o entidad de la ESS"
+        "Forma: Cooperativa o entidad de la ESS"
       ],
       "monto_o_alcance": "",
       "cofinanciamiento": "",
@@ -5356,7 +5361,7 @@ window.PORTAFOLIO = {
       "etapa": "Transversal / no asociado a una etapa",
       "beneficiario": "Empresa y unidades productivas · Cooperativa o entidad de la ESS · Etapa: En operación · Geografía: Alcance nacional",
       "tipos_beneficiario": [
-        "Cooperativa o entidad de la ESS"
+        "Forma: Cooperativa o entidad de la ESS"
       ],
       "monto_o_alcance": "",
       "cofinanciamiento": "",
@@ -5419,7 +5424,7 @@ window.PORTAFOLIO = {
       "etapa": "Consolidación y profesionalización",
       "beneficiario": "Empresa y unidades productivas · Cooperativa o entidad de la ESS · Etapa: En operación · Geografía: Alcance nacional",
       "tipos_beneficiario": [
-        "Cooperativa o entidad de la ESS"
+        "Forma: Cooperativa o entidad de la ESS"
       ],
       "monto_o_alcance": "",
       "cofinanciamiento": "",
@@ -5482,7 +5487,7 @@ window.PORTAFOLIO = {
       "etapa": "Existencia y validación",
       "beneficiario": "Empresa y unidades productivas · Cooperativa o entidad de la ESS · Etapa: Escalamiento · Geografía: Alcance nacional",
       "tipos_beneficiario": [
-        "Cooperativa o entidad de la ESS"
+        "Forma: Cooperativa o entidad de la ESS"
       ],
       "monto_o_alcance": "",
       "cofinanciamiento": "",
@@ -5545,7 +5550,7 @@ window.PORTAFOLIO = {
       "etapa": "Consolidación y profesionalización",
       "beneficiario": "Empresa y unidades productivas · Cooperativa o entidad de la ESS · Etapa: En operación · Geografía: Alcance nacional",
       "tipos_beneficiario": [
-        "Cooperativa o entidad de la ESS"
+        "Forma: Cooperativa o entidad de la ESS"
       ],
       "monto_o_alcance": "",
       "cofinanciamiento": "",
@@ -5608,7 +5613,7 @@ window.PORTAFOLIO = {
       "etapa": "Consolidación y profesionalización",
       "beneficiario": "Empresa y unidades productivas · Cooperativa o entidad de la ESS · Etapa: En operación · Geografía: Alcance nacional",
       "tipos_beneficiario": [
-        "Cooperativa o entidad de la ESS"
+        "Forma: Cooperativa o entidad de la ESS"
       ],
       "monto_o_alcance": "",
       "cofinanciamiento": "",
@@ -5671,7 +5676,7 @@ window.PORTAFOLIO = {
       "etapa": "Supervivencia y viabilidad",
       "beneficiario": "Empresa y unidades productivas · Cooperativa o entidad de la ESS · Etapa: En operación · Geografía: Alcance nacional",
       "tipos_beneficiario": [
-        "Cooperativa o entidad de la ESS"
+        "Forma: Cooperativa o entidad de la ESS"
       ],
       "monto_o_alcance": "",
       "cofinanciamiento": "",
@@ -5734,7 +5739,7 @@ window.PORTAFOLIO = {
       "etapa": "Consolidación y profesionalización",
       "beneficiario": "Empresa y unidades productivas · Cooperativa o entidad de la ESS · Etapa: En operación · Geografía: Alcance nacional",
       "tipos_beneficiario": [
-        "Cooperativa o entidad de la ESS"
+        "Forma: Cooperativa o entidad de la ESS"
       ],
       "monto_o_alcance": "",
       "cofinanciamiento": "",
@@ -5797,7 +5802,7 @@ window.PORTAFOLIO = {
       "etapa": "Consolidación y profesionalización",
       "beneficiario": "Empresa y unidades productivas · Cooperativa o entidad de la ESS · Etapa: En operación · Geografía: Alcance nacional",
       "tipos_beneficiario": [
-        "Cooperativa o entidad de la ESS"
+        "Forma: Cooperativa o entidad de la ESS"
       ],
       "monto_o_alcance": "",
       "cofinanciamiento": "",
@@ -5860,7 +5865,7 @@ window.PORTAFOLIO = {
       "etapa": "Consolidación y profesionalización",
       "beneficiario": "Empresa y unidades productivas · Cooperativa o entidad de la ESS · Etapa: En operación · Geografía: Alcance nacional",
       "tipos_beneficiario": [
-        "Cooperativa o entidad de la ESS"
+        "Forma: Cooperativa o entidad de la ESS"
       ],
       "monto_o_alcance": "",
       "cofinanciamiento": "",
@@ -5923,7 +5928,7 @@ window.PORTAFOLIO = {
       "etapa": "Supervivencia y viabilidad",
       "beneficiario": "Empresa y unidades productivas · Cooperativa o entidad de la ESS · Etapa: En operación · Geografía: Alcance nacional",
       "tipos_beneficiario": [
-        "Cooperativa o entidad de la ESS"
+        "Forma: Cooperativa o entidad de la ESS"
       ],
       "monto_o_alcance": "",
       "cofinanciamiento": "",
@@ -6679,8 +6684,8 @@ window.PORTAFOLIO = {
       "etapa": "Consolidación y profesionalización",
       "beneficiario": "Empresa y unidades productivas · Micro; Pequeña · Etapa: En operación · Geografía: Alcance nacional · Sector: Alimentos y bebidas; Forestal maderero; Metalmecánica",
       "tipos_beneficiario": [
-        "Micro",
-        "Pequeña"
+        "Tamaño: Micro",
+        "Tamaño: Pequeña"
       ],
       "monto_o_alcance": "",
       "cofinanciamiento": "",
@@ -6743,8 +6748,8 @@ window.PORTAFOLIO = {
       "etapa": "Consolidación y profesionalización",
       "beneficiario": "Empresa y unidades productivas · Micro; Pequeña · Etapa: En operación · Geografía: Alcance nacional · Sector: Alimentos y bebidas; Forestal maderero; Metalmecánica",
       "tipos_beneficiario": [
-        "Micro",
-        "Pequeña"
+        "Tamaño: Micro",
+        "Tamaño: Pequeña"
       ],
       "monto_o_alcance": "",
       "cofinanciamiento": "",
@@ -6807,8 +6812,8 @@ window.PORTAFOLIO = {
       "etapa": "Consolidación y profesionalización",
       "beneficiario": "Empresa y unidades productivas · Micro; Pequeña · Etapa: En operación · Geografía: Alcance nacional · Sector: Alimentos y bebidas; Forestal maderero; Metalmecánica",
       "tipos_beneficiario": [
-        "Micro",
-        "Pequeña"
+        "Tamaño: Micro",
+        "Tamaño: Pequeña"
       ],
       "monto_o_alcance": "",
       "cofinanciamiento": "",
@@ -6871,8 +6876,8 @@ window.PORTAFOLIO = {
       "etapa": "Madurez y renovación",
       "beneficiario": "Empresa y unidades productivas · Micro; Pequeña · Etapa: En operación · Geografía: Alcance nacional · Sector: Alimentos y bebidas; Forestal maderero; Metalmecánica",
       "tipos_beneficiario": [
-        "Micro",
-        "Pequeña"
+        "Tamaño: Micro",
+        "Tamaño: Pequeña"
       ],
       "monto_o_alcance": "",
       "cofinanciamiento": "",
@@ -6935,8 +6940,8 @@ window.PORTAFOLIO = {
       "etapa": "Consolidación y profesionalización",
       "beneficiario": "Empresa y unidades productivas · Micro; Pequeña · Etapa: En operación · Geografía: Alcance nacional · Sector: Alimentos y bebidas; Forestal maderero; Metalmecánica",
       "tipos_beneficiario": [
-        "Micro",
-        "Pequeña"
+        "Tamaño: Micro",
+        "Tamaño: Pequeña"
       ],
       "monto_o_alcance": "",
       "cofinanciamiento": "",
@@ -6999,8 +7004,8 @@ window.PORTAFOLIO = {
       "etapa": "Despegue y escalamiento",
       "beneficiario": "Empresa y unidades productivas · Micro; Pequeña · Etapa: Exportadora o con potencial exportador · Geografía: Alcance internacional o regional",
       "tipos_beneficiario": [
-        "Micro",
-        "Pequeña"
+        "Tamaño: Micro",
+        "Tamaño: Pequeña"
       ],
       "monto_o_alcance": "",
       "cofinanciamiento": "",
@@ -7063,8 +7068,8 @@ window.PORTAFOLIO = {
       "etapa": "Despegue y escalamiento",
       "beneficiario": "Empresa y unidades productivas · Micro; Pequeña · Etapa: Exportadora o con potencial exportador · Geografía: Alcance internacional o regional",
       "tipos_beneficiario": [
-        "Micro",
-        "Pequeña"
+        "Tamaño: Micro",
+        "Tamaño: Pequeña"
       ],
       "monto_o_alcance": "",
       "cofinanciamiento": "",
@@ -7190,8 +7195,8 @@ window.PORTAFOLIO = {
       "etapa": "Existencia y validación",
       "beneficiario": "Empresa y unidades productivas · Micro; Pequeña · Etapa: En operación · Geografía: Alcance nacional · Sector: Audiovisual y videojuegos",
       "tipos_beneficiario": [
-        "Micro",
-        "Pequeña"
+        "Tamaño: Micro",
+        "Tamaño: Pequeña"
       ],
       "monto_o_alcance": "",
       "cofinanciamiento": "",
@@ -7254,9 +7259,9 @@ window.PORTAFOLIO = {
       "etapa": "Madurez y renovación",
       "beneficiario": "Empresa y unidades productivas · Micro; Pequeña; Mediana · Etapa: En operación · Geografía: Alcance nacional",
       "tipos_beneficiario": [
-        "Mediana",
-        "Micro",
-        "Pequeña"
+        "Tamaño: Mediana",
+        "Tamaño: Micro",
+        "Tamaño: Pequeña"
       ],
       "monto_o_alcance": "",
       "cofinanciamiento": "",
@@ -7445,9 +7450,9 @@ window.PORTAFOLIO = {
       "etapa": "Transversal / no asociado a una etapa",
       "beneficiario": "Empresa y unidades productivas · Micro; Pequeña; Mediana · Etapa: En operación · Geografía: Alcance nacional · Sector: Industria manufacturera, otras ramas",
       "tipos_beneficiario": [
-        "Mediana",
-        "Micro",
-        "Pequeña"
+        "Tamaño: Mediana",
+        "Tamaño: Micro",
+        "Tamaño: Pequeña"
       ],
       "monto_o_alcance": "",
       "cofinanciamiento": "",
@@ -7510,9 +7515,9 @@ window.PORTAFOLIO = {
       "etapa": "Consolidación y profesionalización",
       "beneficiario": "Empresa y unidades productivas · Micro; Pequeña; Mediana · Etapa: En operación · Geografía: Alcance nacional",
       "tipos_beneficiario": [
-        "Mediana",
-        "Micro",
-        "Pequeña"
+        "Tamaño: Mediana",
+        "Tamaño: Micro",
+        "Tamaño: Pequeña"
       ],
       "monto_o_alcance": "",
       "cofinanciamiento": "",
@@ -7575,9 +7580,9 @@ window.PORTAFOLIO = {
       "etapa": "Consolidación y profesionalización",
       "beneficiario": "Empresa y unidades productivas · Micro; Pequeña; Mediana · Etapa: En operación · Geografía: Alcance nacional",
       "tipos_beneficiario": [
-        "Mediana",
-        "Micro",
-        "Pequeña"
+        "Tamaño: Mediana",
+        "Tamaño: Micro",
+        "Tamaño: Pequeña"
       ],
       "monto_o_alcance": "",
       "cofinanciamiento": "",
@@ -7766,9 +7771,9 @@ window.PORTAFOLIO = {
       "etapa": "Consolidación y profesionalización",
       "beneficiario": "Empresa y unidades productivas · Micro; Pequeña; Mediana · Etapa: En operación · Geografía: Alcance nacional",
       "tipos_beneficiario": [
-        "Mediana",
-        "Micro",
-        "Pequeña"
+        "Tamaño: Mediana",
+        "Tamaño: Micro",
+        "Tamaño: Pequeña"
       ],
       "monto_o_alcance": "",
       "cofinanciamiento": "",
@@ -7831,7 +7836,7 @@ window.PORTAFOLIO = {
       "etapa": "Consolidación y profesionalización",
       "beneficiario": "Persona artesana o diseñadora uruguaya · Alcance nacional  O  Taller o unidad productiva artesanal/de diseño · En operación",
       "tipos_beneficiario": [
-        "En operación"
+        "Sin dato"
       ],
       "monto_o_alcance": "",
       "cofinanciamiento": "",
@@ -7894,7 +7899,7 @@ window.PORTAFOLIO = {
       "etapa": "Consolidación y profesionalización",
       "beneficiario": "Persona artesana o diseñadora uruguaya · Alcance nacional  O  Taller o unidad productiva artesanal/de diseño · En operación",
       "tipos_beneficiario": [
-        "En operación"
+        "Sin dato"
       ],
       "monto_o_alcance": "",
       "cofinanciamiento": "",
@@ -7957,7 +7962,7 @@ window.PORTAFOLIO = {
       "etapa": "Consolidación y profesionalización",
       "beneficiario": "Persona artesana o diseñadora uruguaya · Alcance nacional  O  Taller o unidad productiva artesanal/de diseño · En operación",
       "tipos_beneficiario": [
-        "En operación"
+        "Sin dato"
       ],
       "monto_o_alcance": "",
       "cofinanciamiento": "",
@@ -8020,9 +8025,9 @@ window.PORTAFOLIO = {
       "etapa": "Consolidación y profesionalización",
       "beneficiario": "Empresa y unidades productivas · Micro; Pequeña; Mediana · Etapa: En operación · Geografía: Alcance nacional",
       "tipos_beneficiario": [
-        "Mediana",
-        "Micro",
-        "Pequeña"
+        "Tamaño: Mediana",
+        "Tamaño: Micro",
+        "Tamaño: Pequeña"
       ],
       "monto_o_alcance": "",
       "cofinanciamiento": "",
@@ -8085,9 +8090,9 @@ window.PORTAFOLIO = {
       "etapa": "Consolidación y profesionalización",
       "beneficiario": "Empresa y unidades productivas · Micro; Pequeña; Mediana · Etapa: En operación · Geografía: Alcance nacional",
       "tipos_beneficiario": [
-        "Mediana",
-        "Micro",
-        "Pequeña"
+        "Tamaño: Mediana",
+        "Tamaño: Micro",
+        "Tamaño: Pequeña"
       ],
       "monto_o_alcance": "",
       "cofinanciamiento": "",
@@ -8150,7 +8155,7 @@ window.PORTAFOLIO = {
       "etapa": "Consolidación y profesionalización",
       "beneficiario": "Empresa y unidades productivas · Cooperativa o entidad de la ESS · Etapa: En operación · Geografía: Alcance nacional · Sector: Industria manufacturera, otras ramas",
       "tipos_beneficiario": [
-        "Cooperativa o entidad de la ESS"
+        "Forma: Cooperativa o entidad de la ESS"
       ],
       "monto_o_alcance": "",
       "cofinanciamiento": "",
@@ -8213,7 +8218,7 @@ window.PORTAFOLIO = {
       "etapa": "Madurez y renovación",
       "beneficiario": "Persona física · Alcance nacional  O  Persona jurídica · Sin restricción de tamaño, sector o madurez",
       "tipos_beneficiario": [
-        "Sin restricción de tamaño, sector o madurez"
+        "Sin dato"
       ],
       "monto_o_alcance": "",
       "cofinanciamiento": "",
@@ -8276,7 +8281,9 @@ window.PORTAFOLIO = {
       "etapa": "Consolidación y profesionalización",
       "beneficiario": "Micro o pequeña empresa · Región Este · Al menos 6 meses  O  UPF agropecuaria · Región Este · Al menos 6 meses",
       "tipos_beneficiario": [
-        "Región Este"
+        "Forma: Unidad de producción familiar",
+        "Tamaño: Micro",
+        "Tamaño: Pequeña"
       ],
       "monto_o_alcance": "",
       "cofinanciamiento": "",
