@@ -1,30 +1,20 @@
-# Portafolio empresarial UNE
+# Portafolio de instrumentos de CTI
 
-Tablero del ecosistema de apoyo empresarial de Uruguay, organizado por necesidades de la empresa.
+Ecosistema público de apoyo a empresas. UNE-CTI, Programa Uruguay Innova.
 
-Incluye 76 instrumentos, 106 líneas activas, ocho agencias y 12 necesidades empresariales. Permite buscar, combinar filtros, explorar gráficos interactivos y consultar fichas de instrumentos y agencias con fuentes.
-
-## Uso
-
-Abrir `index.html` en un navegador. No necesita instalación, compilación ni servicios externos.
-
-## GitHub Pages
-
-El sitio está preparado para publicarse desde la raíz de la rama `main`. En la configuración de Pages del repositorio, seleccionar `Deploy from a branch`, rama `main` y carpeta `/ (root)`.
-
-## Datos
-
-Fuente: `Portafolio_Instrumentos_2026_CLASIFICACION_B20_v3.xlsx`, subconjunto empresarial B20, compartido para el informe UNE. Fotografía de septiembre de 2026, sin actualización automática.
-
-Todas las líneas se consideran activas según la validación del relevamiento. Actividad no equivale a convocatoria abierta. Los filtros y gráficos emplean la clasificación principal del instrumento; la finalidad operativa de cada línea puede diferir. Los conteos no representan presupuesto ni impacto.
-
-Los enlaces oficiales se incluyen en las fichas. Las descripciones institucionales corresponden al informe de trabajo. Este repositorio contiene datos del portafolio: revisar su audiencia antes de publicarlo.
+Sitio estático para la coordinación y el análisis de política entre agencias. Incluye resumen, matrices, cobertura, trayectoria, fichas institucionales, explorador con exportación CSV y metodología.
 
 ## Archivos
 
-- `index.html`: interfaz.
-- `style.css` y `visual.css`: diseño adaptable.
-- `data.js`: datos del portafolio.
-- `app.js`: filtros, fichas y gráficos.
+- index.html: interfaz, estilos y lógica embebidos.
+- data.js: datos del portafolio y metadatos.
 
-No se incluyen credenciales ni configuración del servicio de alojamiento utilizado para la preparación local.
+El sitio funciona sin compilación ni backend. Se publica desde la raíz de main en GitHub Pages.
+
+## Fuentes y alcance
+
+La base empresarial B20 conserva las líneas y los identificadores de instrumentos. Los conteos se calculan al cargar los datos. Las clasificaciones operativas y estratégicas se distinguen. La concurrencia no demuestra duplicación; las complementariedades son candidatos para análisis. Los campos no documentados se muestran como sin dato.
+
+Actualización de presentación: 10 de septiembre de 2026. La base no documenta una fecha de relevamiento individual. El sitio no actualiza automáticamente las condiciones de convocatoria.
+
+Correcciones: german.pereira@une.uy. El formulario prepara el correo para su envío por la persona que reporta; no almacena información.
